@@ -1,5 +1,6 @@
-# projeto-redes-sociais
 # Projeto Redes Sociais
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
 Este é um projeto simples desenvolvido como parte de um estudo em HTML5 e CSS3. O objetivo é criar uma página web que simula a tela de um celular, exibindo links para diferentes perfis de redes sociais.
 
@@ -23,7 +24,7 @@ O projeto está organizado da seguinte forma:
   - `home.html`: A tela inicial padrão exibida no celular.
   - `facebook.html`, `github.html`, `instagram.html`, `x.html`, `youtube.html`: Páginas específicas para cada rede social.
 - **/estilos**: Contém as folhas de estilo CSS.
-  - `style.css` (não fornecido no contexto): Estilos aplicados à página principal `index.html`.
+  - `style.css`: Estilos aplicados à página principal `index.html`.
   - `social.css`: Estilos compartilhados entre as páginas de redes sociais contidas no diretório `pages`.
 - **/imagens**: Armazena todas as imagens utilizadas no projeto, como as telas de fundo e os ícones.
 
@@ -33,6 +34,8 @@ O projeto está organizado da seguinte forma:
 2. Abra o arquivo `index.html` em seu navegador de preferência.
 3. Navegue clicando nos ícones das redes sociais.
 
-## Nota sobre o Desenvolvimento
 
-Para este projeto, que teve um propósito puramente de estudo, todo o desenvolvimento foi realizado diretamente na branch `main`. No entanto, em projetos colaborativos ou mais complexos, a prática recomendada é a criação de branches separadas (como `develop`, `feature/*`, etc.) para gerenciar o fluxo de trabalho de forma mais organizada e segura.
+
+---
+
+[← Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)

@@ -1,5 +1,7 @@
 # Projeto Redes Sociais
 
+> **Estudos e tutoriais:** este repositório reúne exercícios, prática de curso ou acompanhamento de tutoriais. Não faz parte dos quatro projetos principais do portfólio.
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
 Este é um projeto simples desenvolvido como parte de um estudo em HTML5 e CSS3. O objetivo é criar uma página web que simula a tela de um celular, exibindo links para diferentes perfis de redes sociais.
@@ -38,4 +40,4 @@ O projeto está organizado da seguinte forma:
 
 ---
 
-[← Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)
+[Portfólio de Kleber Amaro](https://github.com/Kleber720) · [Todos os repositórios](https://github.com/Kleber720?tab=repositories)
